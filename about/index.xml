@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>日初介绍 on 日初</title><link>https://www.sunrisesh.org/about/</link><description>Recent content in 日初介绍 on 日初</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright &amp;copy; 2020 a hugo theme by [themefisher](https://themefisher.com)</copyright><lastBuildDate>Sun, 18 Jan 2004 03:08:00 -0600</lastBuildDate><atom:link href="https://www.sunrisesh.org/about/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>日初介绍 on 日初</title>
+    <link>https://sunrisesh.org/about/</link>
+    <description>Recent content in 日初介绍 on 日初</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [themefisher](https://themefisher.com)</copyright>
+    <lastBuildDate>Sun, 18 Jan 2004 03:08:00 -0600</lastBuildDate>
+    
+	<atom:link href="https://sunrisesh.org/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
